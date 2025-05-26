@@ -1,0 +1,8 @@
+know_env/
+__pycache__/
+books.ipynb
+certificate.crt
+private.key
+knowledge
+.env
+models/__pycache__/
